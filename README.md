@@ -61,4 +61,7 @@ Access the Swagger interactive API docs at http://127.0.0.1:8000/docs.
 3. Launch the Streamlit Frontend Dashboard (New Terminal Tab)Bashstreamlit run app.py
 Access the user interface at http://localhost:8501.
 4. Run Automated System Integration TestsBashpython3 test_system.py
-👥 6. Submission DetailsProject Name: FinIntelLive Demo: https://financeaiagent1.netlify.appRepository: https://github.com/yugdesai133/CodexDS-Hackverse-VibeCodingBuilt For: CodexDS Hackverse / VibeCoding Hackathon
+👥 6. Submission Details: 
+Project Name: FinIntel
+Live Demo: (https://financeaiagent1.netlify.app) : (https://github.com/yugdesai133/CodexDS--hackverse/tree/main)
+For: CodexDS Hackverse / VibeCoding Hackathon
