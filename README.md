@@ -58,10 +58,17 @@ cd CodexDS-Hackverse-VibeCoding
 pip install -r requirements.txt
 2. Start the FastAPI Backend ServerBashpython3 -m uvicorn main_backend:app --reload --port 8000
 Access the Swagger interactive API docs at http://127.0.0.1:8000/docs.
+
 3. Launch the Streamlit Frontend Dashboard (New Terminal Tab)Bashstreamlit run app.py
 Access the user interface at http://localhost:8501.
+
 4. Run Automated System Integration TestsBashpython3 test_system.py
+
+
 👥 6. Submission Details: 
+
 Project Name: FinIntel
+
 Live Demo: (https://financeaiagent1.netlify.app) : (https://github.com/yugdesai133/CodexDS--hackverse/tree/main)
+
 For: CodexDS Hackverse / VibeCoding Hackathon
