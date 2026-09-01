@@ -13,7 +13,7 @@
 
 ## 🌐 Quick Access Links
 - **🚀 Live Web App:** [https://financeaiagent1.netlify.app](https://financeaiagent1.netlify.app)
-- **💻 Source Code:** [https://github.com/yugdesai133/CodexDS-Hackverse-VibeCoding](https://github.com/yugdesai133/CodexDS--hackverse/tree/main)
+- **💻 Source Code:** [https://github.com/yugdesai133/CodexDS--hackverse](https://github.com/yugdesai133/CodexDS--hackverse/tree/main)
 - **📖 Interactive API Docs (Local):** `http://127.0.0.1:8000/docs`
 - **🖥️ Streamlit Local UI:** `http://localhost:8501`
 
