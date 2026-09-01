@@ -45,7 +45,7 @@ CodexDS-Hackverse-VibeCoding/
 │   └── user_relational_db.py   # SQLite schema initialization and ORM utilities
 ├── requirements.txt            # System dependencies
 └── README.md                   # Project documentation
-
+```
 ⚙️ 4. Tech StackLayerTechnologies UsedLive Frontend DeploymentNetlifyBackend FrameworkFastAPI, Uvicorn, PydanticFrontend UIStreamlit, RequestsPersistence & Relational DBSQLite, SQLAlchemy ORMVector Engine & RAGChromaDB, Text EmbeddingsMarket DataLive NSE Options Chain & Price RetrievalTestingCustom 7-Step Integration Verification Suite🚀 5. Getting Started / Local SetupPrerequisitesPython 3.9+GitInstallationClone the repository:Bashgit clone [https://github.com/yugdesai133/CodexDS-Hackverse-VibeCoding.git](https://github.com/yugdesai133/CodexDS-Hackverse-VibeCoding.git)
 cd CodexDS-Hackverse-VibeCoding
 Install dependencies:Bashpip install -r requirements.txt
