@@ -55,14 +55,19 @@ CodexDS-Hackverse-VibeCoding/
 ```
 ⚙️ 4. Tech StackLayerTechnologies UsedLive Frontend DeploymentNetlifyBackend API EngineFastAPI, Uvicorn, PydanticUser InterfaceStreamlit, RequestsDatabase & PersistenceSQLite, SQLAlchemy ORMVector Search & RAGChromaDB, Text EmbeddingsFinancial DataLive NSE Options Chain & Price RetrievalTest VerificationAutomated End-to-End Integration Suite
 
-🚀 5. Quickstart / Local Setup1. Clone & Install DependenciesBashgit clone [https://github.com/yugdesai133/CodexDS-Hackverse-VibeCoding.git](https://github.com/yugdesai133/CodexDS--hackverse/tree/main)
+🚀 5. Quickstart / Local Setup 
+
+1. Clone & Install DependenciesBashgit clone [https://github.com/yugdesai133/CodexDS-Hackverse-VibeCoding.git](https://github.com/yugdesai133/CodexDS--hackverse/tree/main)
 cd CodexDS-Hackverse-VibeCoding
-pip install -r requirements.txt
+pip install -r requirements.txt 
+
 2. Start the FastAPI Backend ServerBashpython3 -m uvicorn main_backend:app --reload --port 8000
-Access the Swagger interactive API docs at http://127.0.0.1:8000/docs.
+Access the Swagger interactive API docs at http://127.0.0.1:8000/docs. 
+
 3. Launch the Streamlit Frontend Dashboard (New Terminal Tab)Bashstreamlit run app.py
-Access the user interface at http://localhost:8501.
-4. Run Automated System Integration TestsBashpython3 test_system.py
+Access the user interface at http://localhost:8501. 
+
+4. Run Automated System Integration TestsBashpython3 test_system.py 
 
 👥 6. Submission Details: 
 
