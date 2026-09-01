@@ -53,7 +53,7 @@ CodexDS-Hackverse-VibeCoding/
 ├── requirements.txt            # System dependencies
 └── README.md                   # System documentation
 ```
-⚙️ 4. Tech StackLayerTechnologies UsedLive Frontend DeploymentNetlifyBackend API EngineFastAPI, Uvicorn, PydanticUser InterfaceStreamlit, RequestsDatabase & PersistenceSQLite, SQLAlchemy ORMVector Search & RAGChromaDB, Text EmbeddingsFinancial DataLive NSE Options Chain & Price RetrievalTest VerificationAutomated End-to-End Integration Suite🚀 5. Quickstart / Local Setup1. Clone & Install DependenciesBashgit clone [https://github.com/yugdesai133/CodexDS-Hackverse-VibeCoding.git](https://github.com/yugdesai133/CodexDS-Hackverse-VibeCoding.git)
+⚙️ 4. Tech StackLayerTechnologies UsedLive Frontend DeploymentNetlifyBackend API EngineFastAPI, Uvicorn, PydanticUser InterfaceStreamlit, RequestsDatabase & PersistenceSQLite, SQLAlchemy ORMVector Search & RAGChromaDB, Text EmbeddingsFinancial DataLive NSE Options Chain & Price RetrievalTest VerificationAutomated End-to-End Integration Suite🚀 5. Quickstart / Local Setup1. Clone & Install DependenciesBashgit clone [https://github.com/yugdesai133/CodexDS-Hackverse-VibeCoding.git](https://github.com/yugdesai133/CodexDS--hackverse/tree/main)
 cd CodexDS-Hackverse-VibeCoding
 pip install -r requirements.txt
 2. Start the FastAPI Backend ServerBashpython3 -m uvicorn main_backend:app --reload --port 8000
